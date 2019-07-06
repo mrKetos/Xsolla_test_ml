@@ -1,2 +1,2 @@
 # Xsolla_test_ml
-My solutions test tasks for xsolla summer school.
+Решения для ML потока на летнюю школу Xsolla 2019.
